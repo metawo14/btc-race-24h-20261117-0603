@@ -3,7 +3,7 @@ import type { BarsState, Batch, OrderInput } from './vendor/makefun-bars.ts';
 
 const SYMBOL = 'CBBTC';
 const BPS = 10_000n;
-const STOP_BPS = 74n;
+const STOP_BPS = 75n;
 const REENTRY_BPS = 30n;
 const SLIPPAGE_BPS = 200;
 
